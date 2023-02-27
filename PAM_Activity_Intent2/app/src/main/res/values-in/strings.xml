@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAM_Activity_Intent</string>
+    <string name="btn_login_title">Masuk</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="label_username">Nama Pengguna</string>
+    <string name="btn_signup_title">Daftar</string>
+</resources>
